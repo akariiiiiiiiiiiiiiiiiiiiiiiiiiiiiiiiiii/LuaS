@@ -1,5 +1,5 @@
 # KAT Adjustable Ammo
-A [KAT (Knife Ability Test)](https://roblox.com/games/KAT) script that allows you to change the revolver's ammo capacity (how much bullets and/or ammo it can hold). Obfuscated for reasons. This repository is discontinued since I don't code in Lua that much anymore.
+A [KAT (Knife Ability Test)](https://roblox.com/games/KAT) script that allows you to change the revolver's ammo capacity (how much bullets and/or ammo it can hold). Obfuscated for reasons. This is the only script I am making for a Roblox game since I don't code in Lua that much anymore. If the developers of KAT patch this script, I will not attempt to fix or make a new version of this script.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # How to use
