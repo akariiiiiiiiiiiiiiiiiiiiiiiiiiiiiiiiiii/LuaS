@@ -6,7 +6,7 @@ A [KAT (Knife Ability Test)](https://web.roblox.com/games/621129760/KAT) script 
 1. Attach your executor (unless it has Auto Attach/Inject) inside [KAT (Knife Ability Test)](https://web.roblox.com/games/621129760/KAT).
 2. Paste the script into your script executor (works best with [Synapse X](https://x.synapse.to)) 
 3. Make sure you do not have the revolver tool equipped and execute the script, you can change the modified ammo by adjusting the value connected to the `_G.Ammo` variable.
-4. Equip the revolver and reload your gun and the revolver's ammo capacity should be the same value connected to the `_G.Ammo` variable.
+4. After executing the script, equip the revolver and reload your gun and the ammo of revolver should be the value connected to `_G.Ammo`.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ```lua
@@ -22,3 +22,4 @@ or [here](https://github.com/XVIRyon/kat-adjustable-ammo-capacity/blob/main/KAT%
 
 # Tools:
 [AztupBrew Obfuscator](https://obfuscator.aztupscripts.xyz/)
+En
